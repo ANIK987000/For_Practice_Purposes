@@ -3,4 +3,6 @@ I am adding some information here.
 So that i can see that if I am able or not to push the file into remote repository.
 New line added.
 To see pull is done or not.
+Branching from command line and push to remote repository.
+Branching and pushing to remote repository.
 Too see if the branching is done or not.
